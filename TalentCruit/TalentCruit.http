@@ -1,0 +1,6 @@
+@TalentCruit_HostAddress = http://localhost:5220
+
+GET {{TalentCruit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
